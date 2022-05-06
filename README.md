@@ -1,2 +1,2 @@
-# DL-On-shelf-Books-Identification
-Library On-shelf Books Identification System based on Deep Visual Features.
+# DL-On-shelf-Books-Recognition
+Library On-shelf Books Segmentation and Recognition based on Deep Visual Features.
