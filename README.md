@@ -5,5 +5,5 @@ On-shelf book segmentation and recognition are crucial steps in library inventor
 
 The BookID dataset, book identity annotation software and the book screen tools can be downloaded from the link below:
 
-链接：https://pan.baidu.com/s/1G2bo-OM18ykfWYGxP1DS4g 
+链接：https://pan.baidu.com/s/1yqjDG56RO1PMfSMXD0Jl3g?pwd=mvar 
 提取码：mvar
